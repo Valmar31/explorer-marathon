@@ -23,7 +23,7 @@
   "typescript": "^4.6.3",
   "vite": "^2.9.5"
  },
- "homepage": "https://valmar31.github.io/explorer-marathon/",
+ "homepage": "https://explorer-marathon.vercel.app/",
  "predeploy": "npm run build",
  "deploy": "gh-pages -d build"
 }

@@ -31,7 +31,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Site URL here](https://valmar31.github.io/explorer-marathon/)
+- Live Site URL: [Site URL here](https://explorer-marathon.vercel.app/)
 
 ## My process
 
